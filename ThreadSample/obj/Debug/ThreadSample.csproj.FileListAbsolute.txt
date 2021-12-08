@@ -1,0 +1,8 @@
+E:\04-其他代码\ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe.config
+E:\04-其他代码\ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe
+E:\04-其他代码\ThreadSample\ThreadSample\bin\Debug\ThreadSample.pdb
+E:\04-其他代码\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.AssemblyReference.cache
+E:\04-其他代码\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.SuggestedBindingRedirects.cache
+E:\04-其他代码\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.CoreCompileInputs.cache
+E:\04-其他代码\ThreadSample\ThreadSample\obj\Debug\ThreadSample.exe
+E:\04-其他代码\ThreadSample\ThreadSample\obj\Debug\ThreadSample.pdb
